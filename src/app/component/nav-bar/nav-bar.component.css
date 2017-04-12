@@ -1,0 +1,12 @@
+.navbar-default {
+    background-color: #373938;
+    border-color: #373938;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #a6a8a7;
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+    color: #fff;
+}

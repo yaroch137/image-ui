@@ -1,1 +1,17 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+    background-color: #f0f0f0 !important;
+    font-family: "Roboto", Helvetica, Arial, sans-serif !important;
+}
+
+.box {
+    background: #fff;
+    margin: 0 0 30px;
+    border: solid 1px #e6e6e6;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 20px;
+    -webkit-box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1);
+}

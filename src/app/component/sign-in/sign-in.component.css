@@ -1,0 +1,8 @@
+.box a{
+    color: #a6a8a7;
+}
+
+.box a:hover{
+    text-decoration: none;
+    color: #383436;
+}
